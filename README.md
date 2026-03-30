@@ -22,3 +22,22 @@ Cybersecurity risk assessment conducted for a nonprofit organization, aligned wi
 
 ## Outcome
 Produced a detailed risk report with prioritized recommendations to improve security posture and reduce enterprise risk.
+# cybersecurity-safeguards
+Designed cybersecurity safeguards and policies including Acceptable Use Policy (AUP), Incident Response, and Vulnerability Management aligned with CIS Controls.
+## My Contribution
+- Designed **Acceptable Use Policy (AUP) safeguards**
+- Contributed to policy development covering:
+  - Secure use of organizational systems
+  - Data handling and user responsibilities
+  - Acceptable usage of devices and networks
+
+## Policies Included
+- Acceptable Use Policy (AUP)
+
+## Framework Alignment
+- CIS Critical Controls v8
+- NIST SP 800-61 (Incident Response)
+- Security governance best practices
+
+## Outcome
+Delivered a structured safeguards framework enabling secure operations, policy enforcement, and risk mitigation.
